@@ -40,7 +40,7 @@
 // export default App;
 
 import React from "react";
-import EntityCard from "./EntityCard";
+import EntityCard from "./components/EntityCard";
 
 const entities = [
     { name: "React", description: "A JavaScript library for building UI" },
